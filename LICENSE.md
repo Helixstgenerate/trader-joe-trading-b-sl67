@@ -1,4 +1,4 @@
-# 
+# high-frequency trader joe trading bot | liquidity-pool-analysis + staking-integration is the best trader joe trading bot, featuring liquidity-pool-analysis and
 
 
 
